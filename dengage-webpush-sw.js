@@ -1,1 +1,1 @@
-importScripts("https://pcdn.dengage.com/p/push/28/e7bebd48-92cf-9cb2-7613-947bcfd50ed0/dengage_sw.js");
+importScripts("https://pcdn.dengage.com/p/push/1/c7e8184e-68ad-551c-b845-fb0e9e4d4a8d/dengage_sw.js");
